@@ -34,11 +34,9 @@ pip install -r requirements.txt # It will install required dependencies.
 
 **"GCN"** : It contains the implementation of preprocessing steps, for e.g. `global contrast normalization`.
 
-**"WGAN_GP"** : It contains the implemenation of Wasserstien GAN (Generative Adversarial Network) with Gradient penalty. And code to generate synthetic samples from random noise vector.
+**"WGAN_GP"** : It contains the implemenation of Wasserstien GAN (Generative Adversarial Network) with Gradient penalty. And a code to generate synthetic samples from random noise vector.
 
-**"Classifier Utilities"**: Some utility function on dataloader, loss plotter etc.
-
-**"assets"**:
+**"assets"** : Contains a subset of original dataset, & related images for markdown files.
 
 
 Copyright 2019, Bisakh Mondal, Nibaran Das, K.C. Sontosh, Mita Nasipuri, All rights reserved.
